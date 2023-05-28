@@ -10,8 +10,8 @@ class Room //a class that represents
     short roomNumber;
     short numberOfBeds;
     short numberOfGuests;
-    Date from;
-    Date to;
+    Date from; //the beginning date of occupation or use
+    Date to; //the ending date of occupation or use
     std::string note;
     public:
     //constructors
