@@ -91,6 +91,7 @@ bool Hotel::AddRoom(const Room &R) //adds a new room to the hotel
 }
 bool Hotel::RemoveRoom(const short rn) //removes a room (uses the roomNumber to find the room)
 {
+    if(this->size==0)return false;
     if(this->CheckIfRoomExists(rn)==true)
     {
         this->size--;
