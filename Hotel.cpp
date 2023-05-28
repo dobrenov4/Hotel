@@ -1,3 +1,5 @@
+//Dimitar Dobrenov - 9MI0800108  - FMI
+
 #include"header_and_source\\hotel.h"
 
 const std::string defaultFilePath="", ADMIN_PASSWORD="admin"; //(a default file path), (an administrator password)
