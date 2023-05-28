@@ -1,3 +1,5 @@
+//Dimitar Dobrenov - 9MI0800108  - FMI
+
 #ifndef room_H
 #define room_H
 #include"date.h"

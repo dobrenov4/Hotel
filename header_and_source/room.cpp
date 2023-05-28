@@ -1,3 +1,5 @@
+//Dimitar Dobrenov - 9MI0800108  - FMI
+
 #include"room.h"
 
 //constructors

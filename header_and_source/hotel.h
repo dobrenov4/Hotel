@@ -1,3 +1,5 @@
+//Dimitar Dobrenov - 9MI0800108  - FMI
+
 #ifndef hotel_H
 #define hotel_H
 #include<fstream>

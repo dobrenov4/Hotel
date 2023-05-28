@@ -1,3 +1,5 @@
+//Dimitar Dobrenov - 9MI0800108  - FMI
+
 #ifndef date_H
 #define date_H
 #include<string>
